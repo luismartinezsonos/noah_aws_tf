@@ -69,12 +69,6 @@ Outputs
 **NOTE**: previous versions of this module returned a single string as a route
 table ID, while this version returns a list.
 
-Authors
-=======
-
-Originally created and maintained by [Casey Ransom](https://github.com/cransom)
-Hijacked by [Paul Hinze](https://github.com/phinze)
-
 License
 =======
 
