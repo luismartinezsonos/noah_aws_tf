@@ -1,5 +1,5 @@
-# Noah's Terra Form
-vpc terraform module
+
+# vpc terraform module
 ===========
 
 A terraform module to provide a VPC in AWS.
